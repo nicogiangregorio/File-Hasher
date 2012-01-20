@@ -1,0 +1,4 @@
+File hasher
+=========
+
+This simple library is useful to hash a file, starting from its binary.
